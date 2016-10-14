@@ -6,7 +6,9 @@ My guide to hacking the 2016 SaintCon Badge
 
 
 ## The 2016 SaintCon Badge
-<!-- Insert Image-->
+
+![Saintcon Badge](https://saintcon.gitlab.io/SaintCon2016Badge/img/IMG_20160929_213212.jpg) 
+
 [Official Badge Assembly Instructions](saintcon.gitlab.io/SaintCon2016Badge/assembly)
 
 [Official Programming Instuctions](saintcon.gitlab.io/SaintCon2016Badge/flashing)
