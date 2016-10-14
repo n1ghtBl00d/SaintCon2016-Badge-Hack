@@ -1,11 +1,18 @@
 # SaintCon2016-Badge-Hack
 My guide to hacking the 2016 SaintCon Badge
 
+
+<br />
+
+
 ## The 2016 SaintCon Badge
 <!-- Insert Image-->
 [Official Badge Assembly Instructions](saintcon.gitlab.io/SaintCon2016Badge/assembly)
 
 [Official Programming Instuctions](saintcon.gitlab.io/SaintCon2016Badge/flashing)
+
+
+<br />
 
 
 ### Hardware Overview
@@ -19,6 +26,9 @@ The badge has 2 [7-segment, 4-digit led displays](https://www.sparkfun.com/datas
 All 8 digits are controlled with a [MAX7291](http://www.datasheetarchive.com/MAX7291-datasheet.html) IC. It communicates with the ESP8266 over SPI protocol.
 
 The badge is powered by a rechargeable 2000mAh USB power bank.
+
+
+<br /><br /> 
 
 
 ### Software Overview
