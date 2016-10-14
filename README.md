@@ -46,7 +46,7 @@ The [Official Programming Instuctions](saintcon.gitlab.io/SaintCon2016Badge/flas
 ESPlorer can be used to download the .lua files from the badge for inspection and modification.
 
 
-<!-- insert link to Lua hacking docs. -->
+*TODO: Add lua hacking docs*
 
 
 #### Programming with Arduino
@@ -54,4 +54,4 @@ ESPlorer can be used to download the .lua files from the badge for inspection an
 
 Alternatively, the ESP8266 can be programmed with the Arduino IDE with native Arduino code. I was familiar with Arduino programming, so this is the route that I eventually chose.
 
-<!-- insert link to arduino hacking docs.-->
+*TODO: Add Arduino hacking docs*
