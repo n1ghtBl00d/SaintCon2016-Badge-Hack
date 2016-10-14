@@ -54,4 +54,4 @@ ESPlorer can be used to download the .lua files from the badge for inspection an
 
 Alternatively, the ESP8266 can be programmed with the Arduino IDE with native Arduino code. I was familiar with Arduino programming, so this is the route that I eventually chose.
 
-*TODO: Add Arduino hacking docs*
+[How To Program Your Badge With Arduino IDE](./docs/Arduino.md)
